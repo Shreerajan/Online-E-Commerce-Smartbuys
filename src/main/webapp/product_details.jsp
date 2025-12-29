@@ -18,8 +18,13 @@ if (p == null) {
 
 <div class="row">
     <div class="col-md-6">
-            <img src="https://www.dummyimg.in/placeholder"
-     class="img-fluid">
+           <img src="${pageContext.request.contextPath}/uploads/<%= 
+    (p.getImage() != null && !p.getImage().trim().isEmpty()
+        ? p.getImage()
+        : "default.png") %>"
+     class="card-img-top"
+     style="height:200px; object-fit:cover;"
+     onerror="this.src='${pageContext.request.contextPath}/uploads/default.png'">
     </div>
 
     <div class="col-md-6">
@@ -30,6 +35,7 @@ if (p == null) {
         <% if (loggedIn) { %>
             <form action="<%= request.getContextPath() %>/addToCart" method="post">
     <input type="hidden" name="productId" value="<%= p.getId() %>">
+    <input type="number" name="quantity" value="1" min="1" required>
     <button type="submit" class="btn btn-success">Add to Cart</button>
 </form>
 
