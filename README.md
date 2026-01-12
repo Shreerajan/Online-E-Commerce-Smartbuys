@@ -1,5 +1,5 @@
 # Online Ecommerce Application (JSP + Servlets + JDBC)
-
+ 
 ## Project Description
 The Online Ecommerce Application is a functional web-based shopping platform built using core Java technologies such as JSP, Servlets, and JDBC. 
 The project demonstrates important concepts like user registration, login, session management, product listing, and database connectivity. 
