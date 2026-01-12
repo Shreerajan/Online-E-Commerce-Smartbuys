@@ -7,9 +7,9 @@ It follows an MVC-like approach—JSP for UI, Servlets for logic, and JDBC for d
 
 ## Demo Video
 
-![Product Demo ](images/homepage.png)
-![Product Demo ](images/sessionlogout.png)
-![Product Demo ](images/sessionlogout1.png)
+![Product Demo ](https://github.com/Shreerajan/Online-E-Commerce-Smartbuys/blob/e7b940ca1ba88e53fe5fa58485ded757af8d7ce4/Images/homepage.png)
+![Product Demo ](https://github.com/Shreerajan/Online-E-Commerce-Smartbuys/blob/e7b940ca1ba88e53fe5fa58485ded757af8d7ce4/Images/sessionlogout.png)
+![Product Demo ](https://github.com/Shreerajan/Online-E-Commerce-Smartbuys/blob/e7b940ca1ba88e53fe5fa58485ded757af8d7ce4/Images/sessionlogout1.png)
 
 ## Installation
 
