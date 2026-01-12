@@ -102,22 +102,22 @@ It follows an MVC-like approach—JSP for UI, Servlets for logic, and JDBC for d
 ---
 
 # 🗄 ER Diagram  
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](https://github.com/Shreerajan/Online-E-Commerce-Smartbuys/blob/e4bf05142afcdf00e85eb24904f8d827c8a2fdfb/Images/er_diagram.png)
 
 ---
 
 # 🏛 Class Diagram  
-![Class Diagram](images/class_diagram.png)
+![Class Diagram](https://github.com/Shreerajan/Online-E-Commerce-Smartbuys/blob/e4bf05142afcdf00e85eb24904f8d827c8a2fdfb/Images/class_diagram.png)
 
 ---
 
 # 📊 Use-Case Diagram  
-![Use Case Diagram](images/usecase_diagram.png)
+![Use Case Diagram](https://github.com/Shreerajan/Online-E-Commerce-Smartbuys/blob/e4bf05142afcdf00e85eb24904f8d827c8a2fdfb/Images/usecase_diagram.png)
 
 ---
 
 # 🔌 JDBC Workflow
-![JDBC Workflow Diagram](images/jdbc_workflow.png)
+![JDBC Workflow Diagram](https://github.com/Shreerajan/Online-E-Commerce-Smartbuys/blob/e4bf05142afcdf00e85eb24904f8d827c8a2fdfb/Images/jdbc_workflow.png)
 ---
 
 # 📁 Project Folder Structure
