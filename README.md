@@ -97,7 +97,7 @@ It follows an MVC-like approach—JSP for UI, Servlets for logic, and JDBC for d
 ---
 
 # 🏗 System Architecture  
-![System Architecture](images/architecture_diagram.png)
+![System Architecture](demo/Online_Ecommerce_demo_video (1).mp4)
 
 ---
 
