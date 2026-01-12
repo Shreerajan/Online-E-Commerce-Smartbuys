@@ -97,7 +97,7 @@ It follows an MVC-like approach—JSP for UI, Servlets for logic, and JDBC for d
 ---
 
 # 🏗 System Architecture  
-![System Architecture](demo/Online_Ecommerce_demo_video (1).mp4)
+![System Architecture](https://github.com/Shreerajan/Online-E-Commerce-Smartbuys/blob/6bda2155a6a770c8334117e7d1c358530ae662a1/Images/architecture_diagram.png)
 
 ---
 
